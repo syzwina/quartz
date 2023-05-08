@@ -1,5 +1,7 @@
 ---
 title: "Callouts"
+tags:
+- style
 ---
 
 ## Callout support
