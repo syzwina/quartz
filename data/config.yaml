@@ -27,4 +27,4 @@ links:
   - link_name: GitHub
     link: https://github.com/syzwina
 favicon:
-  - { rel: "shortcut icon", href: "icon.png", type: "image/png" }
+  - { rel: "shortcut icon", href: "potted_plant.png", type: "image/png" }
