@@ -11,6 +11,10 @@
             {{ if not .IsHome }}
             <li><a href="{{ $.Site.BaseURL}}">{{ i18n "home" }}</a></li>
             {{end}}
+            {{ $notesURL := printf "%snotes/" $.Site.BaseURL }}
+            {{ if (ne .Permalink $notesURL) }}
+            <li><a href="{{$notesURL}}">{{ i18n "notes" }}</a></li>
+            {{ end }}
             {{- range $data.links | default $.Site.Data.config.links -}}
             <li><a href="{{.link}}">{{.link_name}}</a></li>
             {{- end -}}

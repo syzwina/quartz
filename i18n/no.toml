@@ -63,3 +63,6 @@ other = "Innholdsfortegnelse"
 
 [copyright]
 other = "Opprettet av {{ .name }} ved hjelp av <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}"
+
+[notes]
+other = "Notater"

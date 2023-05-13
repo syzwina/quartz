@@ -63,3 +63,6 @@ other = "Tabla de Contenido"
 
 [copyright]
 other = "Hecho por {{ .name }} usando <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}"
+
+[notes]
+other = "Notas"

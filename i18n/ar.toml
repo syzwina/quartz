@@ -63,3 +63,6 @@ other = "الفهرس"
 
 [copyright]
 other = "صُمم بواسطة {{ .name }} باستخدام <a href='https://github.com/jackyzha0/quartz'>كوارتز</a>، {{ .year }} ©"
+
+[notes]
+other = "ملاحظات"

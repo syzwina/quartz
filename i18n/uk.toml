@@ -63,3 +63,6 @@ other = "Зміст"
 
 [copyright]
 other = "Створено {{ .name }} з використанням <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}"
+
+[notes]
+other = "Нотатки"

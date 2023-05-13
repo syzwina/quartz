@@ -63,3 +63,6 @@ other = "İçindekiler"
 
 [copyright]
 other = "{{ .name }} tarafından <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a> kullanılarak yapılmıştır, © {{ .year }}"
+
+[notes]
+other = "Notlar"
