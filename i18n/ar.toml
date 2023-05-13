@@ -66,3 +66,6 @@ other = "صُمم بواسطة {{ .name }} باستخدام <a href='https://git
 
 [notes]
 other = "ملاحظات"
+
+[attributions]
+other = "المصادر"

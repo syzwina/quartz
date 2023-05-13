@@ -66,3 +66,6 @@ other = "Fait par {{ .name }} en utilisant <a href=\"https://github.com/jackyzha
 
 [notes]
 other = "Notes"
+
+[attributions]
+other = "Attributions"

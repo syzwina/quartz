@@ -66,3 +66,6 @@ other = "由 {{ .name }} 用 <a href=\"https://github.com/jackyzha0/quartz\">Qua
 
 [notes]
 other = "笔记"
+
+[attributions]
+other = "归属"

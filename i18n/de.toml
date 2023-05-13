@@ -66,3 +66,6 @@ other = "Made by {{ .name }} using <a href=\"https://github.com/jackyzha0/quartz
 
 [notes]
 other = "Notizen"
+
+[attributions]
+other = "Quellen"

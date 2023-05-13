@@ -66,3 +66,6 @@ other = "Opprettet av {{ .name }} ved hjelp av <a href=\"https://github.com/jack
 
 [notes]
 other = "Notater"
+
+[attributions]
+other = "Kilder"

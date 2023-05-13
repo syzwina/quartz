@@ -66,3 +66,6 @@ other = "{{ .name }} tarafından <a href=\"https://github.com/jackyzha0/quartz\"
 
 [notes]
 other = "Notlar"
+
+[attributions]
+other = "Atıflar"

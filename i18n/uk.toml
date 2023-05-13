@@ -66,3 +66,6 @@ other = "Створено {{ .name }} з використанням <a href=\"ht
 
 [notes]
 other = "Нотатки"
+
+[attributions]
+other = "Джерела"

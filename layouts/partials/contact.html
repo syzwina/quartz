@@ -18,6 +18,10 @@
             {{- range $data.links | default $.Site.Data.config.links -}}
             <li><a href="{{.link}}">{{.link_name}}</a></li>
             {{- end -}}
+            {{ $attributionsURL := printf "%snotes/Attributions/" $.Site.BaseURL }}
+            {{ if (ne .Permalink $attributionsURL) }}
+            <li><a href="{{$attributionsURL}}">{{ i18n "attributions" }}</a></li>
+            {{ end }}
         </ul>
     </footer>
 </div>
