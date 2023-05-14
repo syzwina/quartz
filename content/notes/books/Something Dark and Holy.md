@@ -8,7 +8,7 @@ The books in this series are:
 
 Author: Emily A. Duncan
 
-This is one of my favouite series of all time. My favourite character, Malachiasz Czechowicz is from this series. I still do think about him sometimes. He's a very interesting character. Knowingly evil, purely evil but, the I don't feel hatred towards him. His backstory makes it understandable, to me, for him to be that way. I have a tendency to adore villains in stories, especially when I feel like they are misunderstood.  
+This is one of my favouite series of all time. My favourite character, Malachiasz Czechowicz is from this series. I still do think about him sometimes. He's a very interesting character. Knowingly evil, purely evil but, I don't feel hatred towards him. His backstory makes it understandable, to me, for him to be that way. I have a tendency to adore villains in stories, especially when I feel like they are misunderstood.  
 
 It's funny how, the way I came across this series is so coincidental. I went shopping with my dad one time, and the shop were selling out books, for RM5. That is, VERY cheap! And I bought Blessed Monsters. Not knowing that it was the 3rd book of the trilogy. Imagine the feeling of finding out a book you just bought is a part of a trilogy, and it's the LAST book of the trilogy at that. Welp, I(well not me, my parents) ended up spending more than RM5 for the other 2 books xD. But it's a book that really got me hooked. So, 100% worth it!  
 
