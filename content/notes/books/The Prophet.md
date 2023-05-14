@@ -12,10 +12,14 @@ Author: Kahlil Gibran
   const dotsElement = document.getElementById("loadingDots");
 
   let dotsCount = 0;
-  const interval = setInterval(() => {
-    dotsElement.textContent = ".".repeat(dotsCount % 4);
-    dotsCount++;
-  }, 500);
+  let interval;
+
+  function startAnimation() {
+    interval = setInterval(() => {
+      dotsElement.textContent = ".".repeat(dotsCount % 4);
+      dotsCount++;
+    }, 500);
+  }
 
   typingElement.addEventListener("mouseenter", () => {
     clearInterval(interval);
@@ -25,11 +29,11 @@ Author: Kahlil Gibran
   typingElement.addEventListener("mouseleave", () => {
     dotsCount = 0;
     dotsElement.style.display = "inline";
-    interval = setInterval(() => {
-      dotsElement.textContent = ".".repeat(dotsCount % 4);
-      dotsCount++;
-    }, 500);
+    startAnimation();
   });
+
+  startAnimation();
 </script>
+
 
 Coming soon! xD
