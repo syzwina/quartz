@@ -10,37 +10,47 @@ Here's some quotes from the series that I really really love:
 
 
 > [!QUOTE] Nadezhda Lapteva
+> 
 > I lost my goddess and I lost Malachiasz and I think the thing worse than being pulled in two different directions is having both suddenly vanish. There's nothing left.
 
 > [!QUOTE] Blessed Monsters
+> 
 > "Sleep." Serefin said, not wanting to know. 
 > "Our problems will be here in the morning."
 
 > [!QUOTE] Blessed Monsters
+> 
 > "But I'm so handsome." Serefin whined.
 > "I am so sorry to be the one to tell you this, truly the words are acid on my tounge, but he is too." Kacper replied solemnly. 
 > Serefin clutched his chest. Malachiasz grinned.
 
 > [!QUOTE] Blessed Monsters
+> 
 > "You're making the right decision." Milomir said to Serefin, voice low.
 > "Almost certainly not, but we'll see, won't we?" Serefin returned, easily.
 
 > [!QUOTE] Serefin Meleski
+> 
 > Czijow, brother of mine.
 
 > [!QUOTE] Malachiasz Czechowicz
+> 
 > Prszystem, towy dzimyka.
 
 > [!QUOTE] Blessed Monsters
+> 
 > "Dead again?" "Dead again!" Velyos said.
 
 > [!QUOTE] Serefin Meleski
+> 
 > Then we fight back. Mortal and broken, as we are.
 
 > [!QUOTE] Serefin Meleski
+> 
 > I'm sick of this dying business. Never again.
 
 > [!QUOTE] Nadezhda Lapteva
+> 
 > She wanted Malachiasz's hand cradling the back of her head. Wanted him to lean over her shoulder to scoff at her Codex. To see the intense look on his face as he was curled over his spell book, the look that she now knew meant he was sketching.
 > 
 > She wanted to spend another afternoon in a library with Serefin, him spending th first hour complaining that every book he picked up was too dry before one finally caught his attention, and his wine, for once, went unattended to.
@@ -52,6 +62,7 @@ Here's some quotes from the series that I really really love:
 > Power wasn't worth losing that.
 
 > [!QUOTE] Blessed Monsters
+> 
 > "If I were to give you orders, would you listen to me?"
 > "You're the king," she said, sounding puzzled.
 > "You also outrank me."
@@ -62,10 +73,12 @@ Here's some quotes from the series that I really really love:
 > "We don't have time for this," Malachiasz muttered.
 
 > [!QUOTE] Blessed Monsters
+> 
 > "At least we won't have to worry about that after we're all devoured by this deity of entropy."
 > "Serefin, so good of you to be optimistic," Nadya said.
 
 > [!QUOTE] Malachiasz Czechowicz
+> 
 > They chose to be human; they chose to live.
 > And so, they chose to die.
 
