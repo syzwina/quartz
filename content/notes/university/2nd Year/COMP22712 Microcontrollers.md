@@ -32,4 +32,6 @@ Dan helped me lots with exercise 8, but despite that I was still stuck with some
 
 But all my issues were resolved by then, and I was happily coding my final project(exercise 9), learning about PWM and having some very nice insightful conversations with the lecturers and TAs there. And at the end of the day, I submitted exercise 9 at 6:03pm Friday and I am very proud of it. I might go to my lab next Monday, and see if Jim has marked my exercise 7, and get feedback so that I can fix any issues and refactor my code. There's a lot more to improve obviously, more comments to add, and I should use the classic ARM calling conventions, but that takes time and I am not sure if I want to invest my time in that because I have a System Architecture exam next Wednesday.   
 
-A conclusion to all this, was that I learned a lot of lessons. Never skip labs just because you don't want to go, or because you felt overwhelmed, or because you felt intimidated. And ask for help when you need it, it's okay to ask for help, it's okay to not know everything. These things, for me especially, are easier said than done, but I'm learning to overcome it. Slowly, but surely.
+>[!abstract] TLDR
+>
+>A conclusion to all this, was that I learned a lot of lessons. Never skip labs just because you don't want to go, or because you felt overwhelmed, or because you felt intimidated. And ask for help when you need it, it's okay to ask for help, it's okay to not know everything. These things, for me especially, are easier said than done, but I'm learning to overcome it. Slowly, but surely.
