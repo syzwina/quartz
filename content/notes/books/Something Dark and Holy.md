@@ -82,7 +82,10 @@ Here's some quotes from the series that I really really love:
 > They chose to be human; they chose to live.
 > And so, they chose to die.
 
+Some bits of the language used in this series is quite hard for me to understand, because I think it is a Slavic language? I'm not too sure tbh. But what I do know is that, `towy dzimyka` means little bird, which is also Malachiasz's nickname to Nadya.
 
+As you can see there's quite a few quotes from Serefin. I love him. Basically I have 4 favourite characters from this book, Malachiasz, Nadezhda(Nadya), Serefin and Kacper. I love their dynamic for some reason. I love Serefin's wittiness xD.
 
+Based on my understanding, this series is heavily influenced by Hinduism, hence with the multiple gods. I never thought I would read such a book, because I am indeed muslim. It was very weird at first, but something about it kept me going, and I'm glad I did. It was an emotional roller coaster fr.
 
-
+I remember waking up at around 4:00am back in my hometown, reading this, and when my grandma saw me she was confused. And when she told my mum about it the next day, my mum just brushed it off as if it was normal, I mean it is normal for me, but yea. I'm getting very nerdy now ik lmao ... SUCH A GREAT BOOK, GO AND READ IT!
