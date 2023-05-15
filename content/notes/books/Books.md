@@ -8,3 +8,4 @@ My [notion](https://syazwina.notion.site/syazwina/b573c1df03a4489bb0c78acf4859a9
 - [[notes/books/Something Dark and Holy|Something Dark and Holy]]
 - [[notes/books/The Prophet|The Prophet]]
 - [[notes/books/Three Dark Crowns|Three Dark Crowns]]
+- [[notes/books/Before The Coffee Gets Cold|Before The Coffee Gets Cold]]
