@@ -2,7 +2,11 @@
 title: "The Prophet"
 ---
 
-Author: Kahlil Gibran
+Author: Kahlil Gibran  
+
+I picked up this book because, I've been seeing this name 'Kahlil Gibran' everywhere on instagram. He has some really good quotes and I saved some of them. Life quotes and such. And I was curious, who is this person. And I wanted a compilation of his quotes. So, I looked him up and turns out he's a  muslim writer.  
+
+This book, is very short. I finished it on my trip. I finished it in a day actually. The first chapter, to me personally was a bit odd. Maybe because I'm not mature enough to understand what he meant? But the remaining chapters, resonated with me SO MUCH. I have a lot of quotes saved. I'll elaborate more on ones that I resonate a lot to.  
   
 > [!QUOTE]
 > 
@@ -15,6 +19,7 @@ Author: Kahlil Gibran
 > Then it is better for you that you cover your nakedness and pass out of love's threshing-floor,
 > Into the seasonless world where you shall laugh, but not all of your laughter, and weep, but not all of your tears
 
+Yes, very poetic. But to some extent, I really like poetry, but only a certain kind of poetry. Mostly poetry that I can relate to personally. Or if it's poetry about something that I care about, something that concerns me, I would like it. Poetry is beautiful. So beautiful. Especially arabic poetry. I wish I can understand arabic just so I can read arabc poetry all day.  
   
 > [!QUOTE]
 > 
@@ -26,14 +31,19 @@ Author: Kahlil Gibran
 > 
 > But let there be spaces in your togetherness.
 
+^ This is very important. You know, to be a strong community, or family, or friends or whatever that involves more than one person. You need to maintain your individual self. Sometimes, when we dwindle with people too much, we lose ourselves. And that is not good. Two pillars are stronger apart. Remember that.
+
 > [!QUOTE]
 > 
 > You may strive to be like them, but seek not to make them like you.
 
+Yes, you can only ever change yourselves. Never expect other people to change.
 
 > [!QUOTE]
 > 
 > IT is well to give when asked, but it is better to give unasked, through understanding;
+
+This ^ reminds me A LOT of my friends. :') I love you guys. Often times, I am offered help, and me being me, I don't like asking for help. When I don't show up with a happy face or just not show up at all, some of you will ask me how I'm feeling and you don't know how much I needed it. I strive to do the same. Personally, I think I rarely offer help. But when I receive help from people, even without asking, it makes me want to offer help too, because I just felt that gratitude in me, and I want to pass it around. Random acts of kindness is a very powerful thing.
 
 > [!QUOTE]
 > 
@@ -43,7 +53,7 @@ Author: Kahlil Gibran
 > 
 > But since you must kill to eat, and rob the newly born of its mother's milk to quench your thirst, let it then be an act of worship.
 
-
+This is about killing animals to eat. Why muslims have a certain way to kill an animal to make it halal.   
   
 > [!QUOTE]
 > 
@@ -68,9 +78,13 @@ Author: Kahlil Gibran
 > 
 > The deeper that sorrow carves into your being, the more joy you can contain.
 
+^^^ THIS. OhMyGosh. This resonates with me SOOO much. And I even came upon this revelation a few weeks before reading this book. Trust me, the moment I read that line, I felt so heard. I felt so understood. A few weeks before reading this book, I was so very sad. And when I'm sad, I retreat into my mind, and ponder and cry. It went on for a week. And in that very depressing episode of my life, I realised this(the quote ^). Yea.  
+
 > [!QUOTE]
 > 
 > When you are sorrowful, look again in your heart, and you shall see that in truth you are weeping for that which has been your delight.
+
+Yes. You know, it's disturbing in a way. You can't be happy without sadness. At least in this life. I guess that's life.
 
 > [!QUOTE]
 > 
@@ -107,6 +121,7 @@ Author: Kahlil Gibran
 > 
 > And still more often the condemned is the burden bearer for the guiltless and unblamed.
 
+^ This is so true, and most times, not spoken of.
 
 > [!QUOTE]
 > 
@@ -129,6 +144,7 @@ Author: Kahlil Gibran
 > 
 > Surely you would not honour one guest above the other; for he who is more mindful of one loses the love and the faith of both.
 
+This is true. I personally experienced this with friends.
 
 > [!QUOTE]
 > 
@@ -136,6 +152,7 @@ Author: Kahlil Gibran
 > 
 > But your ears thirst for the sound of your heart's knowledge.
 
+This is why we(or I) love to read quotes and listen to music that resonates with us. We just wanted to hear what our heart is feeling.
 
 > [!QUOTE]
 > 
@@ -146,7 +163,7 @@ Author: Kahlil Gibran
 
 > [!QUOTE]
 > 
-> When your friend speaks his mind you fear not the "nay" in your own mind, nor do you withhold the "aye.
+> When your friend speaks his mind you fear not the "nay" in your own mind, nor do you withhold the "aye".
 
 
 > [!QUOTE]
@@ -158,9 +175,13 @@ Author: Kahlil Gibran
 > 
 > You talk when you cease to be at peace with your thoughts.
 
+Some people talk a lot. And sometimes I wonder, what is going on in their minds? 
+
 > [!QUOTE]
 > 
 > And in much of your talking, thinking is half murdered. For thought is a bird of space, that in a cage of words may indeed unfold its wings but cannot fly.
+
+This, wow. So true though. Yes, when learning, most times you want to talk through your thoughts process. But when it comes to emotions. Talking actually prevents you from thinking your emotions through(?, at least that is true with me). In silence, you are forced to think about stuff. And in that silence where revelations come. Maybe it is true even in learning as well. Idk.
 
 > [!QUOTE]
 > 
@@ -182,6 +203,7 @@ Author: Kahlil Gibran
 > You are good when you strive to give of yourself.
 > Yet you are not evil when you seek gain for yourself.
 
+This ^ yes. It's sometimes okay/necessary to look out for yourself. Because, if not you, then who?
 
 > [!QUOTE]
 > 
@@ -191,6 +213,8 @@ Author: Kahlil Gibran
 > [!QUOTE]
 > 
 > But you who are strong and swift, see that you do not limp before the lame, deeming it kindness.
+
+This makes me think. You know when we walk by a street. And maybe we encounter a person with clutches or some form of mobility aid. And maybe they are walking/moving quite slowly. Do we just overtake them? Is that rude? Or is it more rude to walk at their pace? Which one? 
 
 > [!QUOTE]
 > 
@@ -244,3 +268,5 @@ Author: Kahlil Gibran
 > [!QUOTE]
 > 
 > little while, a moment.
+
+A great book, in my opinion. Asma read it as well! Because as I was reading it, I posted some of the quotes on my instagram story, and she decided to read it. It helped with her reading slump because this is such a small book. And then we exchanged highlights and had some very interesting conversations about it together. 
