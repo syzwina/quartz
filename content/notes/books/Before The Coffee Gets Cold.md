@@ -127,4 +127,4 @@ Author: Toshikazu Kawaguchi & Geoffrey Trousselot
 
 >[!QUOTE]
 >
-> "Mum.’ She said it in a nervous, excited voice but Kei heard it clearl"
+> "Mum.’ She said it in a nervous, excited voice but Kei heard it clearly"
