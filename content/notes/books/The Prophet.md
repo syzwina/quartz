@@ -19,7 +19,7 @@ This book, is very short. I finished it on my trip. I finished it in a day actua
 > Then it is better for you that you cover your nakedness and pass out of love's threshing-floor,
 > Into the seasonless world where you shall laugh, but not all of your laughter, and weep, but not all of your tears
 
-Yes, very poetic. But to some extent, I really like poetry, but only a certain kind of poetry. Mostly poetry that I can relate to personally. Or if it's poetry about something that I care about, something that concerns me, I would like it. Poetry is beautiful. So beautiful. Especially arabic poetry. I wish I can understand arabic just so I can read arabc poetry all day.  
+Yes, very poetic. But to some extent, I really like poetry, but only a certain kind of poetry. Mostly poetry that I can relate to personally. Or if it's poetry about something that I care about, something that concerns me, I would like it. Poetry is beautiful. So beautiful. Especially arabic poetry. I wish I can understand arabic just so I can read arabic poetry all day.  
   
 > [!QUOTE]
 > 
@@ -41,7 +41,7 @@ Yes, you can only ever change yourselves. Never expect other people to change.
 
 > [!QUOTE]
 > 
-> IT is well to give when asked, but it is better to give unasked, through understanding;
+> It is well to give when asked, but it is better to give unasked, through understanding;
 
 This ^ reminds me A LOT of my friends. :') I love you guys. Often times, I am offered help, and me being me, I don't like asking for help. When I don't show up with a happy face or just not show up at all, some of you will ask me how I'm feeling and you don't know how much I needed it. I strive to do the same. Personally, I think I rarely offer help. But when I receive help from people, even without asking, it makes me want to offer help too, because I just felt that gratitude in me, and I want to pass it around. Random acts of kindness is a very powerful thing.
 
@@ -181,7 +181,7 @@ Some people talk a lot. And sometimes I wonder, what is going on in their minds?
 > 
 > And in much of your talking, thinking is half murdered. For thought is a bird of space, that in a cage of words may indeed unfold its wings but cannot fly.
 
-This, wow. So true though. Yes, when learning, most times you want to talk through your thoughts process. But when it comes to emotions. Talking actually prevents you from thinking your emotions through(?, at least that is true with me). In silence, you are forced to think about stuff. And in that silence where revelations come. Maybe it is true even in learning as well. Idk.
+This, wow. So true though. Yes, when learning, most times you want to talk through your thought process. But when it comes to emotions. Talking actually prevents you from thinking your emotions through(?, at least that is true with me). In silence, you are forced to think about stuff. And in that silence where revelations come. Maybe it is true even in learning as well. Idk.
 
 > [!QUOTE]
 > 
