@@ -3,6 +3,10 @@ title: "Before The Coffee Gets Cold"
 ---
 Author: Toshikazu Kawaguchi & Geoffrey Trousselot   
 
+This book was recommended, by a friend of a friend. He said he cried in an airplane reading this book.  
+
+Personally, this book, for me, was a bit bland. I didn't cry, I didn't feel any extreme emotions. I feel like, the character introductions and storyline were so brief, that I couldn't build an emotional connection with their sorrows and concerns. It's a nice short book though. But I know myself, I tend to not really like short books, because of the reason I stated above. Yea.
+
 >[!QUOTE]
 >
 > “The cafe that transports you back in time. It was an incomplete memory, but she remembered that key phrase clearly”
@@ -10,6 +14,8 @@ Author: Toshikazu Kawaguchi & Geoffrey Trousselot
 >[!QUOTE]
 >
 > “Her mind was made up. Or, more accurately, a stubborn resolve had taken root.”
+
+This is me most of the time ...
 
 >[!QUOTE]
 >
@@ -56,6 +62,8 @@ Author: Toshikazu Kawaguchi & Geoffrey Trousselot
 >
 > “She was struggling to get things straight in her head while the general mood was so low”
 
+This is me when I am sad ...  I'm glad it rarely happens.
+
 >[!QUOTE]
 >
 > “Then one day, after those two months, a letter arrived from Fusagi. All it said was: ‘Let’s get married.”
@@ -99,6 +107,8 @@ Author: Toshikazu Kawaguchi & Geoffrey Trousselot
 >[!QUOTE]
 >
 > “To run the inn together. With you”
+
+^ This bit right here, was very sad.
 
 >[!QUOTE]
 >
