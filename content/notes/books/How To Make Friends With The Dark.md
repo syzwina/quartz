@@ -31,5 +31,15 @@ I cried, each time I picked it up. And my mood was noticeably low as I'm reading
 > "You're funny. Don't lose it. That'll help you."
 
 
+> [!QUOTE] 
+> 
+> "If there's anything in here I should know about, now's the time," she murmurs.  
+> "Like *what?*"  
+> "Dangerous objects, drugs, things like that."  
+> I stare at her. "You got me. That tampon is really filled with weed and I'm an expert at using a mascara wand for a shiv."  
+> She grunts. "Like I said, keep being funny. *That's* the best weapon you could have." 
+
+
+
 
 
