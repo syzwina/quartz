@@ -49,7 +49,7 @@ I cried, each time I picked it up. And my mood was noticeably low as I'm reading
 
 > [!QUOTE] Tiger
 >  
->  Fighting, drinkind, drugs. I don't do any of those things anyway. But maybe I'll start now that there's no one to care.
+>  Fighting, drinking, drugs. I don't do any of those things anyway. But maybe I'll start now that there's no one to care.
 
 
 > [!QUOTE] Lala
