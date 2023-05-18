@@ -8,7 +8,7 @@ This module is very interesting. However, I think I messed up 2 of the 3 coursew
 
 Finished this exam yesterday. Exam was exactly as expected. They gave us about 5 past papers and the exam was similar to that! Which was wonderful!  
 
-Very good module, aside from me messing up the courseworks because of lack of time(or maybe more accurately, time management skills). Everything else is GOOD! Interesting content and very good exam! One of the nicest exam I've sat in for my degree I think.  
+Very good module, aside from me messing up the courseworks because of the lack of time(or maybe more accurately, time management skills). Everything else is GOOD! Interesting content and very good exam! One of the nicest exam I've sat in for my degree I think.  
 
 In preparing for the exam, I wasn't panicking. Which I think was a really good way to go, because that meant, me trying to *actually understand stuff*   instead of just cramming stuff into my head(altho I must say, I started studying for this exam 2 days before the exam, BUT I was caught up with content even before exam season started, that's why I was chill). I found this really COOL YouTube channel, [Intermation](https://www.youtube.com/@Intermation)! This channel helped me understand how to disect an address to give us the tag bits, index bits and the offset bits(which came out in the exam btw!). And I also learnt more about Hamming Codes and ECC(Error Correction Code) from this channel.  
 
