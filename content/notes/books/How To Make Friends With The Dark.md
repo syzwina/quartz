@@ -14,3 +14,22 @@ I cried, each time I picked it up. And my mood was noticeably low as I'm reading
 > Sometimes I'm so grateful for Cake I could burst
 
 
+> [!QUOTE] Tiger
+> 
+> *"Why can't you ever just fucking leave me alone?"*
+
+
+> [!QUOTE] Cake's mom
+> 
+> She must have left *something*
+
+
+
+> [!QUOTE] 
+> 
+> I say, "Don't you think it's a little crazy that I have to go live with complete strangers when adults spend a lifetime telling us kids *never* to trust strangers?"  
+> "You're funny. Don't lose it. That'll help you."
+
+
+
+
