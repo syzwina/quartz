@@ -8,9 +8,15 @@ A one year long module :weary:.
 # Part II : Haskel
 
 Functional Programming ...
-
-[What is a Monad? - Computerphile](https://www.youtube.com/watch?v=t1e8gqXLbsU)  
+  
 I LOVE Computerphile!  
+
+> [!QUOTE] Professor Graham Hutton in [What is a Monad? - Computerphile](https://www.youtube.com/watch?v=t1e8gqXLbsU)
+> 
+> It causes some problems for people learning languages like Haskell, because Haskell people tend to use the proper mathematical terms for things, and those terms are often quite foreign to programmers. And it does cause quite a lof of difficulty. So there's some people have the view that we shouldn't actually have used the term monad, maybe we should've called them effects, or something like that. So, just use the more kind of human, or a familliar term. But I'm actually of the point of view that, if we know the proper term for something, we should call it that something, and the people who are using it should just learn that term. I mean, it is what it is, it's a monad, and we should pay homage to the mathematicians for discovering this idea first, and not kind of reappropriate is as if it was discovered independently - the mathematicians discovered this, they should get credit for that, and so I'm quite happy with the word monad.
+
+
+
 
 # Part III : Compilation
 
