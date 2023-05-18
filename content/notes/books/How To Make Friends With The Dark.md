@@ -54,7 +54,7 @@ I cried, each time I picked it up. And my mood was noticeably low as I'm reading
 
 > [!QUOTE] Lala
 > 
-> Grief is a processyour body and mind have to go through, Tiger. There isn't a cure.
+> Grief is a process your body and mind have to go through, Tiger. There isn't a cure.
 
 
 > [!QUOTE] Tiger
