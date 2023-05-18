@@ -67,7 +67,7 @@ I cried, each time I picked it up. And my mood was noticeably low as I'm reading
 > I don't know what days are supposed to be anymore. What I'm supposed to be doing. Because a mom tells you that, usually.   
 > 	*Get up. Eat. Pack your backpack. Brush your hair. Do you have homework? Stop texting and do your math. Should we have pizza for dinner? Look at you, you're getting so beautiful. Wy are you so grumpy? Am I not allowed to call my own daughter beautiful?*
 
-
+It is very sad, to witness a 17 year old, go through grief. When I picked up this book, I hoped to learn how to cope with grief. Because you know, we will all go through it one day. But I wasn't expecting to feel those emotions, as if they were my own. I cried so much reading this book. And I'm not even halfway yet. I will pick this book up again soon. I will finish it. It's a really good book. A very sad one, but very good indeed.  
 
 
 
