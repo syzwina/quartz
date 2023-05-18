@@ -3,6 +3,9 @@ title: "COMP25212 System Architecture"
 ---
 This module is very interesting. However, I think I messed up 2 of the 3 courseworks I had.    
 
+**Thursday, May 18th 2023
+2:41 pm**
+
 Finished this exam yesterday. Exam was exactly as expected. They gave us about 5 past papers and the exam was similar to that! Which was wonderful!  
 
 Very good module, aside from me messing up the courseworks because of lack of time(or maybe more accurately, time management skills). Everything else is GOOD! Interesting content and very good exam! One of the nicest exam I've sat in for my degree I think.  
