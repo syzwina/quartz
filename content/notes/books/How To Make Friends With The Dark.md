@@ -59,7 +59,7 @@ I cried, each time I picked it up. And my mood was noticeably low as I'm reading
 
 > [!QUOTE] Tiger
 > 
-> Maybe by yelling at my mother and telling her those horrible things, I set off some domino effect, tripped a wire in te cosmos, and changed my path and now I'm being taught a terrible lesson.
+> Maybe by yelling at my mother and telling her those horrible things, I set off some domino effect, tripped a wire in the cosmos, and changed my path and now I'm being taught a terrible lesson.
 
 
 > [!QUOTE] Tiger
