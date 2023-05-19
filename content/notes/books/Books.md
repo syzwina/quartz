@@ -11,3 +11,4 @@ My [notion](https://syazwina.notion.site/syazwina/b573c1df03a4489bb0c78acf4859a9
 - [[notes/books/Before The Coffee Gets Cold|Before The Coffee Gets Cold]]
 - [[notes/books/The Exhibitionist|The Exhibitionist]]
 - [[notes/books/How To Make Friends With The Dark|How To Make Friends With The Dark]]
+- [[notes/books/Dune|Dune]]
