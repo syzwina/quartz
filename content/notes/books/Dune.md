@@ -21,12 +21,12 @@ Very true! When I feel something so strongly. I would try my best(in my mind, or
 
 > [!QUOTE] 
 > 
-> 'I do not like the way you smile,'  ...  
-> 'And I think less of what pleases you ...'
+> 'I do not like the way you smile,' ...  Mohiam  
+> 'And I think less of what pleases you ...' Scytale 
 
 Savage :weary:  
 
-> [!QUOTE] 
+> [!QUOTE] Paul's Father (Duke Leto of Atreidis)
 > 
 > 'One who rules assumes irrevocable responsibility for the ruled. You are a husbandman. This demands at times, a selfless act of love which may only be amusing to those you rule.'
 
