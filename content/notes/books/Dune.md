@@ -30,7 +30,7 @@ Savage :weary:
 > 
 > 'One who rules assumes irrevocable responsibility for the ruled. You are a husbandman. This demands at times, a selfless act of love which may only be amusing to those you rule.'
 
-This made me think, that love is indeed, a selfless act.Like how an apology is a selfless act. Love is as well.  
+This made me think, that love is indeed, a selfless act. Like how an apology is a selfless act. Love is as well.  
 
 That reminds me how, when we want to be loved, often times we would want the other to accept us as a whole, flaws and all. And in return we will accept their flaws as well. And how can it get more selfless than that?  
 
