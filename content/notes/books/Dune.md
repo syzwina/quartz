@@ -10,7 +10,7 @@ I picked this one up, with *no expectations*. So I was really surprised to see I
 
 I really want to write down all the quotes for this book, but I sent the book home when my parents came to the UK to visit me. So yea, I'll write it down this summer hopefully.
 # Dune Messiah, Dune #2
-I am reading this one currently, although I may have stopped for a bit due to exams(well actually no, not because of exams, I just don't feel like reading this days). But yea, will come back to it soon.  
+I am reading this one currently, although I may have stopped for a bit due to exams(well actually no, not because of exams, I just don't feel like reading these days). But yea, will come back to it soon.  
 
 
 > [!QUOTE] Scytale
