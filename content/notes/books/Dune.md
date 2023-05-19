@@ -6,7 +6,7 @@ Author: Frank Herbert
 # Dune, Dune #1
 It took me 3 months to finish this book. It's a REALLY GOOD BOOK, but I was just struggling out of my reading slump by then. I really love the way the writer portrays the scene and the emotions each character was feeling.  
 
-I picked this one up, with *no expecatations*. So I was really surprised to see Islamic terms showing up in the book. Turns out this series is highly influenced by the middle eastern culture and such. Very good book! HIghly recommend!  
+I picked this one up, with *no expectations*. So I was really surprised to see Islamic terms showing up in the book. Turns out this series is highly influenced by the middle eastern culture and such. Very good book! HIghly recommend!  
 
 I really want to write down all the quotes for this book, but I sent the book home when my parents came to the UK to visit me. So yea, I'll write t down this summer hopefully.
 # Dune Messiah, Dune #2
