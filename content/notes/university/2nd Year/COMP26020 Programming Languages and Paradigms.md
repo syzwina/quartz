@@ -2,6 +2,7 @@
 title: "COMP26020 Programming Languages and Paradigms"
 ---
 A one year long module :weary:.  
+Okay I just realised because Asma told me that this exam, is a 70% exam, of a 20 credit module. SO yea, quite important I'd say. Time to study ...    
 
 # Part I : C and C++
 
