@@ -6,6 +6,8 @@ Okay I just realised because Asma told me that this exam, is a 70% exam, of a 20
 
 # Part I : C and C++
 
+Watching my lecturer's vids on c++, c++ is so cool omg. Yea, and I think Pavlos explained it really well. Pierre explained C really well as well. Would love to work with c++ more tbh.
+
 # Part II : Haskel
 
 Functional Programming ...
