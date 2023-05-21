@@ -25,4 +25,7 @@ Should've used Tail Recursive Algorithms.
 
 # Part III : Compilation
 
+So much to remember HMMM.  
+It's interesting tho, I always liked COMP11212 Fundamentals of Computation. And we revisit them in this module. But yea. Okay maybe *not too much* to remember, but it's still quite a bit much. Idk xD.  
+
 # Part IV : Advanced Topics
