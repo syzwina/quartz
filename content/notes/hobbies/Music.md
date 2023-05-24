@@ -1,6 +1,10 @@
 ---
 title: "Music"
 ---
+**Wednesday, May 24th 2023**  
+**6:54 pm**  
+
+  
 I play the ukulele!  
 
 I used to play 'gambang'(a wooden xylophone sort of, no it's not a marimba, it's gambang) in secondary school. I was a part of the gamelan team for my school. It was a nice 5 year thing going on. I never expected myself to be a musical person yk, but yea, when I left secondary school, I no longer play 'gambang' because it's a traditional musical equipment that I just don't have at home yk.  
