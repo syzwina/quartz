@@ -22,4 +22,8 @@ Live music that I just LOVE:
 - I love most of Panic! At The Disco's live! I am quite sad I didn't go to their last concert :( But I had stuff going on at that time, so yea, nvm, I can still watch them on youtube. 
 	I love it when Brandon sings the high notes so well!
 - [take me to church - hozier (cover)](https://www.youtube.com/watch?v=pRcdEB6uSsQ)
-	I love love chloe moriondo's covers, especially this one. I love seeing other people's vocal torture(uh what?) ... And I aspire to be able to do the same one day :)  
+	I love love chloe moriondo's covers, especially this one. I love seeing other people's vocal torture(uh what?) ... And I aspire to be able to do the same one day :)   
+
+Live concert I've been to:  
+- The Vamps, 10 Years with The Vamps tour
+	My first ever concert. I really enjoyed it. I love the loud music(altho I had to wear ear plugs). It was nice listening to my favourite songs live XD.  
