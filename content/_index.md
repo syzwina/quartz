@@ -5,7 +5,9 @@ enableToc: false
 
 Hi! Syazwina's here! Go to my notes!  
 
-[[notes/university/University|University]] stuff!  
-[[notes/books/Books|Books]] stuff!    
-[[notes/life/Life|Life]] stuff!  
-[[notes/recipes/Recipes|Recipes]] stuff!
+Stuff here:
+- [[notes/university/University|University]]   
+- [[notes/books/Books|Books]]     
+- [[notes/life/Life|Life]]   
+- [[notes/recipes/Recipes|Recipes]] 
+- [[notes/hobbies/Hobbies|Hobbies]] 
