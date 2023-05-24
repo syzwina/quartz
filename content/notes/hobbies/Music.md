@@ -17,7 +17,7 @@ A part of me still misses playing 'gambang', but it's fine. I have my uke now. :
 
 Live music that I just LOVE:  
 - [Cavetown - Boys Will Be Bugs [Official Live at Hoxton Hall]](https://www.youtube.com/watch?v=c31Fd0QFNLE)
-	Currently I really love this one, it's making me want to have an electric guitar. Maybe one day, but for now, I'm learning the chords to this song, and the strumming pattern on my uke. I'll do a cover of it soon. 
+	Currently I really love this one, it's making me want to have an electric guitar. Maybe one day, but for now, I'm learning the chords to this song, and the strumming pattern on my uke. I'll do a cover of it soon.   
 	Chords: [Boys Will Be Bugs Chords](https://tabs.ultimate-guitar.com/tab/cavetown/boys-will-be-bugs-chords-2541447)
 - I love most of Panic! At The Disco's live! I am quite sad I didn't go to their last concert :( But I had stuff going on at that time, so yea, nvm, I can still watch them on youtube. 
 	I love it when Brandon sings the high notes so well!
