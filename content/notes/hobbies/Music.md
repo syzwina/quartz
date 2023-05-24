@@ -25,5 +25,5 @@ Live music that I just LOVE:
 	I love love chloe moriondo's covers, especially this one. I love seeing other people's vocal torture(uh what?) ... And I aspire to be able to do the same one day :)   
 
 Live concert I've been to:  
-- The Vamps, 10 Years with The Vamps tour
+- The Vamps, 10 Years with The Vamps tour  
 	My first ever concert. I really enjoyed it. I love the loud music(altho I had to wear ear plugs). It was nice listening to my favourite songs live XD.  
