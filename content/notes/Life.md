@@ -2,10 +2,10 @@
 title: "Life"
 ---
 Where I share random quotes ...  
-- [[notes/life/Disappointment|Disappointment]]
-- [[notes/life/Honesty|Honesty]]
-- [[notes/life/Consequences|Consequences]]
-- [[notes/life/Scared|Scared]]  
+- [[notes/Life/Disappointment|Disappointment]]
+- [[notes/Life/Honesty|Honesty]]
+- [[notes/Life/Consequences|Consequences]]
+- [[notes/Life/Scared|Scared]]  
 
 Not quotes, but life update:  
-- [[notes/life/So I Deleted Social Media|So I Deleted Social Media]]
+- [[notes/Life/So I Deleted Social Media|So I Deleted Social Media]]
