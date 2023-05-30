@@ -73,11 +73,6 @@
     {{else if fileExists $relpath}}
       {{$splitpath := split $relpath "/"}}
       {{$dirname := first (sub (len $splitpath) 1) $splitpath | path.Join | urlize}}
-      <!-- {{$dirname := (printf "images/%s" (first (sub (len $splitpath) 1) $splitpath)) | path.Join | urlize}} -->
-
-      <!-- {{$splitpath := split $relpath "/"}} -->
-      <!-- {{$dirname := slice $splitpath 0 (sub (len $splitpath) 1) | path.Join | urlize}} -->
-
       {{$basename := index (last 1 $splitpath) 0}}
       {{$href := printf "/%s/%s" $dirname $basename}}
       <!-- Embedded? -->
