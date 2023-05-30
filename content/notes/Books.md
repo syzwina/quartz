@@ -12,4 +12,4 @@ My [notion](https://syazwina.notion.site/syazwina/b573c1df03a4489bb0c78acf4859a9
 - [[notes/Books/The Exhibitionist|The Exhibitionist]]
 - [[notes/Books/How To Make Friends With The Dark|How To Make Friends With The Dark]]
 - [[notes/Books/Dune|Dune]]
-	
+- [[notes/Books/The Scholomance|The Scholomance]]
