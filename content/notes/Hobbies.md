@@ -6,7 +6,7 @@ I have a lot of hobbies! I'll try to share some here:
 - [[notes/Hobbies/Music|Music]]
 - Cooking
 - Baking
-- Reading
+- Reading, may I redirect you to my [[notes/Books|personal book reviews]]
 - Drawing + Watecolour
 - tbd: Roller Skating? still not sure if it's a hobby(but then, I would ask myself, what makes something a hobby? yea idk)
 - Minecraft
