@@ -12,7 +12,5 @@ Stuff here:
 - [[notes/Recipes|Recipes]] 
 - [[notes/Hobbies|Hobbies]] 
 - [[notes/Scrap Book|Scrap Book]]  
-
-add / to images  test  
   
-![[images/CATJPG.jpg]] 
+![[content/images/CATJPG.jpg]] 
