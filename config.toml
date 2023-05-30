@@ -1,6 +1,6 @@
 baseURL = "https://syzwina.github.io/quartz/"
 languageCode = "en-us"
-relativeURLs = true
+relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
