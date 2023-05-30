@@ -13,6 +13,6 @@ Stuff here:
 - [[notes/Hobbies|Hobbies]] 
 - [[notes/Scrap Book|Scrap Book]]  
 
-add / to images  
+add / to images  test  
   
-![[//CATJPG.jpg]]
+![[images/CATJPG.jpg]] 
