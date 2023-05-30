@@ -12,3 +12,5 @@ Stuff here:
 - [[notes/Recipes|Recipes]] 
 - [[notes/Hobbies|Hobbies]] 
 - [[notes/Scrap Book|Scrap Book]]
+
+![[notes/images/crocs.jpg]]
