@@ -13,7 +13,4 @@ Stuff here:
 - [[notes/Hobbies|Hobbies]] 
 - [[notes/Scrap Book|Scrap Book]]
 
-/content  
-
-
-![[/content/notes/images/crocs.jpg]]
+![[notes/images/crocs.jpg]]
