@@ -15,22 +15,22 @@ Stuff here:
 
 uHM  
 
-content/images/CATJPG.jpg    
+content/images/CAT.jpg    
 
-![[content/images/CATJPG.jpg]]  
+![[content/images/CAT.jpg]]  
   
-/content/images/CATJPG.jpg  
+/content/images/CAT.jpg  
   
-![[/content/images/CATJPG.jpg]]  
+![[/content/images/CAT.jpg]]  
   
-/images/CATJPG.jpg  
+/images/CAT.jpg  
   
-![[/images/CATJPG.jpg]]  
+![[images/CAT.jpg]]  
 
   
-images/CATJPG.jpg  
+images/CAT.jpg  
   
-![[images/CATJPG.jpg]]  
+![[images/CAT.jpg]]  
 
 CATJPG.jpg  
   
