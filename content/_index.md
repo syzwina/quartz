@@ -38,4 +38,4 @@ CATJPG.jpg
 
 /CATJPG.jpg  
   
-![[/CATJPG.jpg]]  
+![[./CATJPG.jpg]]  
