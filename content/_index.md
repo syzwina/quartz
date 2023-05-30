@@ -13,7 +13,4 @@ Stuff here:
 - [[notes/Hobbies|Hobbies]] 
 - [[notes/Scrap Book|Scrap Book]]  
 
-uhM    
-moved to images  
-  
-![[images/crocs.jpg]]
+!(crocs.jpg)[images/crocs.jpg]
