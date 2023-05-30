@@ -15,4 +15,4 @@ Stuff here:
 
 uhM  
 
-![[images/crocs.jpg|crocs.jpg]]
+![[images/crocs.jpg]]
