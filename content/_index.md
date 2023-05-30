@@ -15,4 +15,4 @@ Stuff here:
 
 add / to images  
   
-![[CATJPG.jpg]]
+![[//CATJPG.jpg]]
