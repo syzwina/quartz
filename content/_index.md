@@ -11,3 +11,4 @@ Stuff here:
 - [[notes/Life|Life]]   
 - [[notes/Recipes|Recipes]] 
 - [[notes/Hobbies|Hobbies]] 
+- [[notes/Scrap Book|Scrap Book]]
