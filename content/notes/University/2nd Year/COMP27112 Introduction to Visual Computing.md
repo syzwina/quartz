@@ -9,3 +9,9 @@ Welp.
 This module is very interesting xD  
 
 
+
+> [!QUOTE] Terry  
+> 
+> I thought we'd go back to highschool physics and do a littel bit of revision on moments because we're going to use moments in the images in a moment.
+
+
