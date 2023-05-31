@@ -1,7 +1,7 @@
 ---
 title: "Pancakes"
 ---
-I LOVE this pancakes! I got this recipe from this [youtube video](https://youtu.be/18Q2xVQoNfA)!   
+I LOVE these pancakes! I got this recipe from this [youtube video](https://youtu.be/18Q2xVQoNfA)!   
 I found this recipe when I was little, and have been using it since!  
 
 Ingredients:
