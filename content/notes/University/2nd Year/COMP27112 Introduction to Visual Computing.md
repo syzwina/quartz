@@ -22,3 +22,6 @@ Whiteboards are so good!
 ![[images/IMG_4879.jpg]]
 
 ![[images/IMG_4881.jpg]]
+
+Exam was good! xD  
+There's like a 10 marker exam, and I am so proud of my answer for that one xD.  
