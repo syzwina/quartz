@@ -23,7 +23,7 @@ And it turns out that there's a possibility the heroin, El Galdriel Higgins, can
 
 > [!QUOTE] El Galdriel Higgins
 > 
-> I didn't argue. Maybe I'd known all the along that they would come with me, and I'd only told myself that I'd stop them because it was horribly selfish to drag them along, and so I'd had to pretend I wasn't going to do it. I imagine it's always easier to do something monstrous if you can convince yourself you aren't going to, up to the last minute, until you do.
+> I didn't argue. Maybe I'd known all the along that they would come with me, and I'd only told myself that I'd stop them because it was horribly [[notes/Life/Selfish|selfish]] to drag them along, and so I'd had to pretend I wasn't going to do it. I imagine it's always easier to do something monstrous if you can convince yourself you aren't going to, up to the last minute, until you do.
 
 My first highlight in the book.  
 
