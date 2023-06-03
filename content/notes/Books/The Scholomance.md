@@ -31,7 +31,7 @@ I am currently 70% in the book, and let me tell you, Orion lives! I feel like it
 
 Currently, El is on a quest with her friends to save her ally/friend, Liu. Sounds like something much terrible than death is going on? I'm not sure, but what would a *sacrifice* mean. Like, if you just need a sacrifice, just get some random person no? I'm not sure, why does it need to be someone from the family? And why is the family against it? Didn't they sign up for this in the first place when you're dwelling with making an enclave? Cus an enclave needs malia after all.   
 
-**Saturday, June 3rd 2023**  
+**Saturday, June 3rd 2023**
 **11:21 pm**  
 
 DAMN.  
