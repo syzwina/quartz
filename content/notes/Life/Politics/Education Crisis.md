@@ -34,5 +34,13 @@ https://drtengkuputri.com/
 Things we can do:
 - read books about early childhood education
 - send kids to tadika yang buat early childhood education
+  
+Things to look for in kids:
+- keprihatinan terhadap kesusahan orang lain
+- peka
+- akhlak dengan orang lain
+- not just handing in homeworks and grades
+  
+Kat Malaysia, cikgu semua ajar subjeck lain-lain. Tapi kalau kat UK, cikgu yang sama ajar banyak subjects. So, budak-budak darjah satu, yang tak reti nak link kan all of these information, can link them up with the help of the teachers. Kids yag dah older, budak2 sekolah menengah, no longer need the same teacher for multiple subjects, because their brains have matured.
 
 
