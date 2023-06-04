@@ -42,5 +42,8 @@ Things to look for in kids:
 - not just handing in homeworks and grades
   
 Kat Malaysia, cikgu semua ajar subjeck lain-lain. Tapi kalau kat UK, cikgu yang sama ajar banyak subjects. So, budak-budak darjah satu, yang tak reti nak link kan all of these information, can link them up with the help of the teachers. Kids yag dah older, budak2 sekolah menengah, no longer need the same teacher for multiple subjects, because their brains have matured.
-
-
+  
+Education sepatutnya, mengeluarkan seseorang yang susah daripada situasi yang susah itu. tapi education Malaysia kini, graduan di Malaysia, tidak mampu mengeluarkan Malaysia daripada kesusahan. 
+  
+Kini, students are taught things that they don't need to learn. Also, they're taught in inefficient methods. For example, Pendidikan Islam is taught in Jawi, without knowing if the kid knows Jawi or not. You're just making it harder for the kid to learn. Thus, making it them hate that subject.
+  
