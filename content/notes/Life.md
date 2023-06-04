@@ -13,6 +13,7 @@ Not quotes, but life update:
 - [[notes/Life/So I Deleted Social Media|So I Deleted Social Media]]
 
 Other stuff:
+- [[notes/Life/Islam|Islam]]
 - [[notes/Life/Politics|Politics]]
 - [[notes/Life/Finance|Finance]]
 

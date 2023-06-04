@@ -7,3 +7,6 @@ So here's me trying to learn more,
 a friend recommended me to this channel [[notes/Life/Politics/Keluar Sekejap|Keluar Sekejap]].
 
 Will watch and learn more about it.
+
+Related:
+- [[notes/Life/Politics/Education Crisis|Education Crisis]]
