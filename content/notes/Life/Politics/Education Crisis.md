@@ -29,7 +29,7 @@ This is not a good sign for a country.
 
 Dulu, UPSR adalah hanya untuk bezakan student yang master skill asal ke tak. But as time goes by, it became a competition, how many As. And determines budak tu masuk sbp or not. So it became a very detrimental thing for weaker students. But, without having any exams at all, there's no way to see how well our kids are doing. 
   
-https://drtengkuputri.com/  
+https://drtengkuputri.com/  - dia pernah masuk kementerian, tapi dia keluar, sbb dia kata, dia x leh gerak pun masa dia kat kementerian. dia keluar, buat tadika sendiri, buat sekolah sendiri. tapi bila dia keluar, peluang tu tak dapat kat semua orang, so that's sad.  
 
 Things we can do:
 - read books about early childhood education
