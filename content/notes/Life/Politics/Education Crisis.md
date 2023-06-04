@@ -30,3 +30,9 @@ This is not a good sign for a country.
 Dulu, UPSR adalah hanya untuk bezakan student yang master skill asal ke tak. But as time goes by, it became a competition, how many As. And determines budak tu masuk sbp or not. So it became a very detrimental thing for weaker students. But, without having any exams at all, there's no way to see how well our kids are doing. 
   
 https://drtengkuputri.com/  
+
+Things we can do:
+- read books about early childhood education
+- send kids to tadika yang buat early childhood education
+
+
