@@ -46,4 +46,5 @@ Kat Malaysia, cikgu semua ajar subjeck lain-lain. Tapi kalau kat UK, cikgu yang 
 Education sepatutnya, mengeluarkan seseorang yang susah daripada situasi yang susah itu. tapi education Malaysia kini, graduan di Malaysia, tidak mampu mengeluarkan Malaysia daripada kesusahan. 
   
 Kini, students are taught things that they don't need to learn. Also, they're taught in inefficient methods. For example, Pendidikan Islam is taught in Jawi, without knowing if the kid knows Jawi or not. You're just making it harder for the kid to learn. Thus, making it them hate that subject.
-  
+
+Kids are smart, they can do a lot of stuff. But the education system failed them, making them feel not smart and not worthy. Is that what we're building our nation on? Sad.
