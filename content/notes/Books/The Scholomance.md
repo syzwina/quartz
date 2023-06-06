@@ -63,4 +63,11 @@ And damn, the last incantation, pleading.
 
 So beautiful.
 
-What a beautiful book. Perfection.
+What a beautiful book. Perfection.  
+
+**Tuesday, June 6th 2023**  
+**8:09 pm**  
+
+Finished the book.  
+Cried, laughed. Very good book, LOVE the ending.  
+Would definitely read the series again one day. 
