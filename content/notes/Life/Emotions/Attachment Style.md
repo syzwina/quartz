@@ -41,3 +41,29 @@ Not too sure, am doing some research about it atm, will update here.
   - [ ] You conciously adapt your approach to different relationships
        i do notice, i don't like people who tend to show strong emotions
        my brain immediately judges them as unable to handle themselves
+- [ ] You prefer to approach conflict calmly and directly
+- [ ] You are comfortable in and out of relationships
+- [ ] You feel empathy without getting overwhelmed by it
+      lately, i feel less empathetic, idk why
+- [ ] You can set personal and collaborative goals easily
+- [ ] You're comfortable depending/relying on loved ones
+      yea no, i think i'm more comfortable not depending on anyone(counter-dependance)
+- [ ] Conflict feels uncomfortable but tolerable
+- [ ] You describe other people in a balanced way  
+
+oke, so I am definitely not secure rn, something to work on
+
+# Anxious
+
+[10 Signs You May Have An Anxious Attachment Style](https://youtu.be/ahzCikYhM_o)
+
+- [ ] Constantly trying to feel 'Good Enough' for love
+- [ ] You are an 'Intimacy Junkie'
+- [ ] Feeling more committed (or like you 'love more') thank your partners
+- [ ] You tend to suppress your needs in order to not be abandoned
+- [ ] Your conversations tend to rotate around relationships
+- [ ] You tend to 'overthink' in a relationship
+- [x] When you are single you sustain yourself on fantasies
+- [x] You struggle to set and keep boundaries
+- [ ] You tend to put your partners on pedestals
+- [ ] You are preoccupied by what others think of you
