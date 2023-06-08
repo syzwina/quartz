@@ -16,4 +16,5 @@ Other stuff:
 - [[notes/Life/Islam|Islam]]
 - [[notes/Life/Politics|Politics]]
 - [[notes/Life/Finance|Finance]]
+- [[notes/Life/Emotions|Emotions]]
 
