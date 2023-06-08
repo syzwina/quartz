@@ -37,7 +37,7 @@ Not too sure, am doing some research about it atm, will update here.
       uHM, nope
 - [ ] You don't take things personally
       yea i tend to flee when people are stressed
-      thus why in extreme uni conditions, i stay at home, to avoid the stressed people
+      thus why in extreme uni conditions, i stay at home, to avoid the stressed people  
   - [ ] You conciously adapt your approach to different relationships
        i do notice, i don't like people who tend to show strong emotions
        my brain immediately judges them as unable to handle themselves
