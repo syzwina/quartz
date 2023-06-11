@@ -18,3 +18,6 @@ Other stuff:
 - [[notes/Life/Finance|Finance]]
 - [[notes/Life/Emotions|Emotions]]
 
+Randoms(how randoms differ from 'other stuff'? idk but it feels different so shut up):  
+- [[notes/Life/Funny Stuff|Funny Stuff]]
+
