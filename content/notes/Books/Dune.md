@@ -2,6 +2,8 @@
 title: "Dune"
 ---
 Author: Frank Herbert  
+  
+<a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="120" data-pin-scale-width="115" href="https://www.pinterest.co.uk/syazwinafazrul/dune-quotes/"></a>  
 
 # Dune, Dune #1
 It took me 3 months to finish this book. It's a REALLY GOOD BOOK, but I was just struggling out of my reading slump by then. I really love the way the writer portrays the scene and the emotions each character was feeling.  

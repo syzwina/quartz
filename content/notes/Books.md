@@ -20,3 +20,4 @@ xoxo
 - [[notes/Books/How To Make Friends With The Dark|How To Make Friends With The Dark]]
 - [[notes/Books/Dune|Dune]]
 - [[notes/Books/The Scholomance|The Scholomance]]
+- [[notes/Books/Forty Rules of Love|Forty Rules of Love]]

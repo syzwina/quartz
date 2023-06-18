@@ -70,7 +70,9 @@
   {{partial "katex.html" .}}
 
   {{partial "mermaid.html" .}}
-
+  <!-- for Pinterest embeds createad with Pinterest widget builder -->
+  <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+   
   <script src="https://cdn.jsdelivr.net/npm/@floating-ui/core@1.2.1"></script>
   <script src="https://cdn.jsdelivr.net/npm/@floating-ui/dom@1.2.1"></script>
   {{ $popover := resources.Get "js/popover.js" | resources.Fingerprint "md5" |
