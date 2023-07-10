@@ -10,11 +10,15 @@ This book has given me so many insights. I've decided to make a pinterest board 
 # Quotes
 
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=1028791108609377785" height="700" width="600" frameborder="0" scrolling="no" ></iframe>
-# 40 Rules
-## Rule 1
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=1028791108609905085" height="700" width="600" frameborder="0" scrolling="no" ></iframe>
-## Rule 2
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=1028791108610010169" height="700" width="600" frameborder="0" scrolling="no" ></iframe>`
-## Rule 3
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1028791108609377785" height="700" width="600" frameborder="0" scrolling="no" ></iframe>  
+
+
+# 40 Rules  
+## Rule 1  
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1028791108609905085" height="700" width="600" frameborder="0" scrolling="no" ></iframe>  
+
+## Rule 2  
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1028791108610010169" height="700" width="600" frameborder="0" scrolling="no" ></iframe>
+  
+## Rule 3  
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=1028791108610010169" height="700" width="600" frameborder="0" scrolling="no" ></iframe>
